@@ -1,17 +1,17 @@
 {
 	"$schema": "../node_modules/@companion-surface/base/assets/manifest.schema.json",
 	"type": "surface",
-	"id": "infinitton-idisplay",
-	"name": "Infinitton iDisplay",
-	"shortname": "infinitton-idisplay",
+	"id": "idisplay-infinitton",
+	"name": "iDisplay Infinitton",
+	"shortname": "idisplay-infinitton",
 	"description": "",
 	"version": "0.0.0",
 	"license": "MIT",
-	"repository": "git+https://github.com/bitfocus/companion-surface-infinitton-idisplay.git",
-	"bugs": "https://github.com/bitfocus/companion-surface-infinitton-idisplay/issues",
+	"repository": "git+https://github.com/bitfocus/companion-surface-idisplay-infinitton.git",
+	"bugs": "https://github.com/bitfocus/companion-surface-idisplay-infinitton/issues",
 	"maintainers": [{ "name": "Julian Waller", "email": "git@julusian.co.uk" }],
 	"runtime": { "type": "node22", "apiVersion": "0.0.0", "entrypoint": "../dist/main.js" },
 	"keywords": ["infinitton", "idisplay"],
-	"products": ["Infinitton iDisplay"],
+	"products": ["iDisplay Infinitton"],
 	"usbIds": [{ "vendorId": 65535, "productIds": [8000, 8001] }]
 }

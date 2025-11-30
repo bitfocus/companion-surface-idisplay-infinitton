@@ -28,7 +28,7 @@ const InfinittonPlugin: SurfacePlugin<HIDDevice> = {
 
 		return {
 			surfaceId: `infinitton:${device.serialNumber}`,
-			description: 'Infinitton iDisplay',
+			description: 'iDisplay Infinitton',
 			pluginInfo: device,
 		}
 	},

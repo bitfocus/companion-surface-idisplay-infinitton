@@ -27,7 +27,7 @@ export class InfinittonWrapper implements SurfaceInstance {
 		return this.#surfaceId
 	}
 	public get productName(): string {
-		return 'Infinitton iDisplay'
+		return 'iDisplay Infinitton'
 	}
 
 	readonly #drawQueue = new PQueue({ concurrency: 1 })

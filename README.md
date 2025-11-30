@@ -1,4 +1,4 @@
-# companion-surface-infinitton-idisplay
+# companion-surface-idisplay-infinitton
 
 See [HELP.md](./companion/HELP.md) and [LICENSE](./LICENSE)
 

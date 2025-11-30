@@ -1074,9 +1074,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"companion-surface-infinitton-idisplay@workspace:.":
+"companion-surface-idisplay-infinitton@workspace:.":
   version: 0.0.0-use.local
-  resolution: "companion-surface-infinitton-idisplay@workspace:."
+  resolution: "companion-surface-idisplay-infinitton@workspace:."
   dependencies:
     "@companion-module/tools": "npm:2.4.2-nightly-main-20251021-232112-36bfae9"
     "@companion-surface/base": "npm:~0.6.1"
