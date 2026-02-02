@@ -24,7 +24,7 @@
 	},
 	"dependencies": {
 		"@companion-surface/base": "~1.0.0",
-		"node-hid": "^3.2.0",
+		"node-hid": "^3.3.0",
 		"p-queue": "^9.0.1"
 	},
 	"devDependencies": {
